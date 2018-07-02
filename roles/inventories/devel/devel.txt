@@ -1,0 +1,8 @@
+[www]
+34.245.60.254
+
+[all:vars]
+ansible_user=centos
+ansible_private_key_file=/root/curso-ansible-verano.pem
+ansible_host_key_checking=false
+
